@@ -8,5 +8,5 @@ Ones I created are in the main folder and should work pretty much perfectly for 
 * GEM GM-X
 * Casio LK93TV
 * Yamaha DOM-30
-* Yamaha DJX-iib
+* Yamaha DJX-iib (not actually mine sorry, just copied from online as it's not in the official yamaha ins)
 * Peavey DPM V3
